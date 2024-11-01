@@ -31,12 +31,12 @@
         <li><a href="https://replit.com/@GaliaKondratiev/Diplom-startovyi-kod?v=1#logic.js">Описание логики игры "Крестики-нолики"</a></li>
       </ul>
     </li>
-    <li>Домашние работы 
+<!--     <li>Домашние работы 
       <ul>
         <li><a href="№0">1</a></li>
         <li><a href="№0">2</a></li>
       </ul>
-    </li>
+    </li> -->
   
   </ul>
 </div>
